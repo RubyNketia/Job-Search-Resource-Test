@@ -10,3 +10,4 @@
    * Azure Cloud/DevOps Engneer
    * AWS Cloud/DevOps Engineer
    * Infrastructure Engineer
+![Screenshot 2024-01-22 133847](https://github.com/RubyNketia/Job-Search-Resource-Test/assets/114700921/cf5c97c2-0ddf-4117-955d-ee25b4ee90e1)
